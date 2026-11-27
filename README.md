@@ -1,8 +1,10 @@
-# Optiwork 1.0
+# Optiwork
 
 Windows x64 顺序光学设计工作台，采用 **Standalone Optics 自主优化算法**。直接打开支持的 Zemax 处方、追迹实光线、分析像差并按制造条件优化。可由 Python 或 AI 编写的程序在本机调用。
 
-**[下载 Windows 便携版](https://github.com/wufansaber/optiwork-releases/releases/download/v1.0.0/Optiwork-1.0.0-Windows-x64.zip)** · **[Python 客户端与示例](https://github.com/wufansaber/optiwork-releases/releases/download/v1.0.0/Optiwork-1.0-Python.zip)** · **[正式发布页与 SHA-256](https://github.com/wufansaber/optiwork-releases/releases/tag/v1.0.0)**
+v1.3.0 可在固定片数下搜索不同结构与玻璃组合，选择光斑或波前优先，并在本机无人值守优化。
+
+**[下载 Windows 便携版（v1.3.0）](https://github.com/wufansaber/optiwork-releases/releases/download/v1.3.0/Optiwork-1.3.0-Windows-x64.zip)** · **[v1.0 配套 Python 客户端与示例](https://github.com/wufansaber/optiwork-releases/releases/download/v1.0.0/Optiwork-1.0-Python.zip)** · **[正式发布页与 SHA-256](https://github.com/wufansaber/optiwork-releases/releases/latest)**
 
 ![Optiwork 1.0 中文宣传图](https://github.com/wufansaber/optiwork-releases/releases/download/v1.0.0/Optiwork-1.0-zh-CN.png)
 
